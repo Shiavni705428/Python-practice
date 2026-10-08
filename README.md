@@ -11,4 +11,4 @@ A simple Python program that takes your name and prints a greeting.
 
 ## About
 
-This repository contains my Python learning projects.
+This repository contains my Python learning projects. 
