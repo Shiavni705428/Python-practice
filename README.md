@@ -4,7 +4,10 @@ My Python practice projects.
 
 ## Projects
 
-- Hello Python
+### 1. Hello Python
+A simple Python program that takes your name and prints a greeting.
+
+**File:** `hello.py`
 
 ## About
 
